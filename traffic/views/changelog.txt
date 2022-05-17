@@ -1,3 +1,10 @@
+2022-05-17T16:13:02Z:
+* notice: last 14d: all unq: 416 3
+* notice: prev accum: outdated-all outdated-unq / all unq: 1115 69 / 1537 84
+* notice: next accum: outdated-all outdated-unq / all unq: 1115 69 / 1531 84
+* notice: prev exec diff / last date diff / accum: unq all: +0 +1 -0 -7 / +1 +4 -0 -0 / 1 4
+* notice: changed dates: [2022-05-03 2022-05-16 2022-05-17]
+
 2022-05-17T08:11:02Z:
 * notice: last 14d: all unq: 422 3
 * notice: prev accum: outdated-all outdated-unq / all unq: 1115 69 / 1534 83
