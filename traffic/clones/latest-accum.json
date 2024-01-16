@@ -1,19 +1,10 @@
 {
-  "timestamp" : "2024-01-14T16:08:54Z",
-  "count_outdated" : 471,
-  "uniques_outdated" : 301,
+  "timestamp" : "2024-01-16T00:37:44Z",
+  "count_outdated" : 473,
+  "uniques_outdated" : 302,
   "count" : 480,
   "uniques" : 309,
   "clones" : [
-    {
-      "timestamp": "2024-01-01T00:00:00Z",
-      "count": 2,
-      "count_minmax": [ 2, 2 ],
-      "count_decinc": [ 0, 2 ],
-      "uniques": 1,
-      "uniques_minmax": [ 1, 1 ],
-      "uniques_decinc": [ 0, 1 ]
-    },
     {
       "timestamp": "2024-01-07T00:00:00Z",
       "count": 3,
